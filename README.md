@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**4ndrezpt/4ndrezpt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Andres Zapata a **full-stack Software** Developer from Colombia.
+## I'm passionate about the internet technologies and bringing solutions for users and companies
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About my skills:
+| ## Frontend  | ## Backend   | ## Databases |
+|--------------|--------------|--------------|
+| JavaScript   |  Java        | ### SQL      |
+| TypeScript   |  NodeJs      | MySQL        |
+|### Frameworks|  PHP         | MariaDB      |
+| Angular      |  Python      | PostgreSQL   |
+|### Libraries |### Frameworks| ### NoSQL    |
+|  React       | Spring       | MongoDB      |            
+| Vue          | Flask        |              |
+| CSS/ Sass    |              |              |
+
+
+## Mobile
+### Android
+- Java
+- Kotlin
+## OS
+- Linux
+- Windows 10/11
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=4ndrezpt)
+
+## Thanks for watching...
+
