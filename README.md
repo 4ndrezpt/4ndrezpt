@@ -18,7 +18,7 @@
 ### languages 
 - Javascript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 
-- Typescript ![Typescript]([https;//img.shields.io/badge/typescript-#007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript))
+- Typescript ![Typescript](https://img.shields.io/badge/-TypeScript-fff?&logo=TypeScript)
 - Java ![Java](https://img.shields.io/badge/Java-ED8B00?style=fot-the-badge&logo=openjdk&logoColor=white)
 - PHP ![PHP](https://img.shields.io/badge/php-777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 - Python ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
