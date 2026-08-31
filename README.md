@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Andres Zapata a **full-stack Software** Developer from Colombia, I'm passionate about designing, finding and provide maintenance to technological solutions focused on Web and Mobile technologies.
+## Hi there 👋, I'm Andres Zapata a **full-stack Software** Developer from Colombia, I'm passionate about designing, finding and provide maintenance to technological solutions focused on Web.
 
 . Take a look to my [Portfolio](https://portfolioandreszap.netlify.app/)
 . Take a look to my linkedin [LinkedIn](https://www.linkedin.com/in/andres-zapata-d3v3loper)
