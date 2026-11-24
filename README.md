@@ -3,17 +3,18 @@
 . Take a look to my [Portfolio](https://portfolioandreszap.netlify.app/)
 . Take a look to my linkedin [LinkedIn](https://www.linkedin.com/in/andres-zapata-d3v3loper)
 
-### Skills for Web Development:
-| **Frontend** | **Backend**  | **Databases**|
-|--------------|--------------|--------------|
-| JavaScript   |  Java        | __SQL__      |
-| TypeScript   |  NodeJs      | MySQL        |
-|__Frameworks__|  PHP         | MariaDB      |
-| Angular      |  Python      | PostgreSQL   |
-|__Libraries__ |__Frameworks__| __NoSQL__    |
-| React        | Spring       | MongoDB      |            
-| Vue          | Flask        |              |
-| CSS/ Sass    |              |              |
+###                     Skills for Web Development:
+
+| **Frontend** | **Backend**  | **Databases**|**Testing**|  **Tools**   |  
+|--------------|--------------|--------------|-----------|--------------|
+| JavaScript   |  Java        | __SQL__      | Mockito   | Lunacy       |
+| TypeScript   |  NodeJs      | MySQL        | Chai      | Docker       |
+|__Frameworks__|  PHP         | MariaDB      | Cypress   |              |
+| Angular      |  Python      | PostgreSQL   | Vitest    |              |
+|__Libraries__ |__Frameworks__| __NoSQL__    |           |              |
+| React        | Spring       | MongoDB      |           |              |
+| Vue          | Django/Flask |              |           |              |
+| CSS/ Sass    |              |              |           |              |
 
 ## Web platform
 ### languages 
